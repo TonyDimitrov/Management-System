@@ -8,7 +8,8 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using ManagementSystem.Models;
+using ManagementSytem.Models.ViewModels.Account;
+using ManagementSytem.Models.EntityModels;
 
 namespace ManagementSystem.Controllers
 {
